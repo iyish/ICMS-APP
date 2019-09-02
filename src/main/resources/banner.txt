@@ -1,0 +1,30 @@
+
+
+IIIIIIIIII      CCCCCCCCCCCCCMMMMMMMM               MMMMMMMM   SSSSSSSSSSSSSSS                  BBBBBBBBBBBBBBBBB   MMMMMMMM               MMMMMMMM
+I::::::::I   CCC::::::::::::CM:::::::M             M:::::::M SS:::::::::::::::S                 B::::::::::::::::B  M:::::::M             M:::::::M
+I::::::::I CC:::::::::::::::CM::::::::M           M::::::::MS:::::SSSSSS::::::S                 B::::::BBBBBB:::::B M::::::::M           M::::::::M
+II::::::IIC:::::CCCCCCCC::::CM:::::::::M         M:::::::::MS:::::S     SSSSSSS                 BB:::::B     B:::::BM:::::::::M         M:::::::::M
+  I::::I C:::::C       CCCCCCM::::::::::M       M::::::::::MS:::::S                               B::::B     B:::::BM::::::::::M       M::::::::::M
+  I::::IC:::::C              M:::::::::::M     M:::::::::::MS:::::S                               B::::B     B:::::BM:::::::::::M     M:::::::::::M
+  I::::IC:::::C              M:::::::M::::M   M::::M:::::::M S::::SSSS                            B::::BBBBBB:::::B M:::::::M::::M   M::::M:::::::M
+  I::::IC:::::C              M::::::M M::::M M::::M M::::::M  SS::::::SSSSS     ---------------   B:::::::::::::BB  M::::::M M::::M M::::M M::::::M
+  I::::IC:::::C              M::::::M  M::::M::::M  M::::::M    SSS::::::::SS   -:::::::::::::-   B::::BBBBBB:::::B M::::::M  M::::M::::M  M::::::M
+  I::::IC:::::C              M::::::M   M:::::::M   M::::::M       SSSSSS::::S  ---------------   B::::B     B:::::BM::::::M   M:::::::M   M::::::M
+  I::::IC:::::C              M::::::M    M:::::M    M::::::M            S:::::S                   B::::B     B:::::BM::::::M    M:::::M    M::::::M
+  I::::I C:::::C       CCCCCCM::::::M     MMMMM     M::::::M            S:::::S                   B::::B     B:::::BM::::::M     MMMMM     M::::::M
+II::::::IIC:::::CCCCCCCC::::CM::::::M               M::::::MSSSSSSS     S:::::S                 BB:::::BBBBBB::::::BM::::::M               M::::::M
+I::::::::I CC:::::::::::::::CM::::::M               M::::::MS::::::SSSSSS:::::S                 B:::::::::::::::::B M::::::M               M::::::M
+I::::::::I   CCC::::::::::::CM::::::M               M::::::MS:::::::::::::::SS                  B::::::::::::::::B  M::::::M               M::::::M
+IIIIIIIIII      CCCCCCCCCCCCCMMMMMMMM               MMMMMMMM SSSSSSSSSSSSSSS                    BBBBBBBBBBBBBBBBB   MMMMMMMM               MMMMMMMM
+
+
+
+
+
+
+
+    Shiro edition v2.0
+
+    Spring-Boot-Version: ${spring-boot.version}
+
+    ItemCodingManagementSystem 3.0.08

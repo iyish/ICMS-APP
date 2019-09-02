@@ -212,12 +212,12 @@
         </dependency>
     </dependencies>
 
-    <repositories>
-        <repository>
-            <id>EasyCaptcha repository</id>
-            <url>https://repository.mulesoft.org/nexus/content/repositories/public/</url>
-        </repository>
-    </repositories>
+<!--    <repositories>-->
+<!--        <repository>-->
+<!--            <id>EasyCaptcha repository</id>-->
+<!--            <url>https://repository.mulesoft.org/nexus/content/repositories/public/</url>-->
+<!--        </repository>-->
+<!--    </repositories>-->
 
     <build>
         <plugins>
